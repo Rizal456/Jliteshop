@@ -1,0 +1,28 @@
+Terima Kasih sudah Membeli Aplikasi Tokol DistroIT (Toko Online DistroIT),
+Untuk instalasi TOko Online DistroIT ikuti petunjuk di bawah ini : 
+
+1.Install xampp 7.1.4 (Versi xampp yang digunakan pada saat mendevelop) 
+download di sini http://sourceforge.net/projects/xampp/files/XAMPP%20Windows/7.1.4/
+
+2. Setelah Xampp terinstal, silahkan extract DistroIT-Update.zip, kemudian pindahkan
+file hasil extract tadi ke folder htdocs -> C:/xampp/htdocs
+
+3. Kemudian buatlah sebuah database di PHPMyAdmin dengan nama distroit.
+
+4. Upload / Import file distroit.sql ke database yang baru di buat, (file skripsi.sql terdapat pada folder DB hasil extract file DistroIT-Update.zip tadi)
+
+5. Akses aplikasi di browser via localhost -> localhost/disroit
+
+6. Selamat anda telah berhasil menginstall DistroIT
+
+Bila masih bingung atau tidak bisa mengistall silahkan hubungi saya di
+
+BBM : 52391DCE
+SMS/TLP/WA : 085694984803
+Email : hakkobiorichard@gmail.com
+Blog : www.hakkoblogs.com
+
+Harap meyertakan info, misal : sinis tidak bisa install.
+
+Selamat berkreasi, Happy Coding & Programming.
+
